@@ -1,8 +1,60 @@
 .style {
     padding: 4px;
 }
-.style_External_620_132 {
+.paragraph_style {
+    color: rgb(38, 86, 148);
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1.vertical-align-middle-innerbox {
+    padding: 0px;
+}
+.paragraph_style_1 {
+    color: rgb(0, 91, 146);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 28px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 31px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_620_462 {
     position: relative;
+}
+.style_External_620_41.vertical-align-middle-middlebox {
+    height: 41px;
+    position: relative;
+    width: 620px;
 }
 .style_SkipStroke {
     background: transparent;
@@ -37,7 +89,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_620_132 {
+.Normal_External_620_462 {
     position: relative;
 }
 .Title {
